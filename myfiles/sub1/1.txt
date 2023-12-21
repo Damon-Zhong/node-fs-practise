@@ -1,0 +1,5 @@
+Locker Creation
+Building Guid is sent to Snaile for relevant integration
+They need to set up this Guid on their side as the "Location Id"
+Create locker sends them the list of Suites through their API
+Create locker sends them the webhook + auth info for them to send package updates
